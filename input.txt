@@ -1,5 +1,4 @@
-﻿Comparative Kangyur Catalogue
-Vinaya
+﻿Vinaya ***** moved from 32 20140623 sam ***** • 3
 ('dul ba) texts 0001-0024
 CK 1 'dul ba gzhi
 vinaya-vastu
@@ -30,7 +29,6 @@ vol. 5, pp. 62-808; vol. 6, pp. 3-784; vol. 7, pp. 3-833; vol. 8, pp. 3-735 Tran
 D 3 'dul ba, ca 21al-292a7; cha lbl-287a7; ja lbl-287a7;
 nya lbl-269a6 (vol. 5-8)
 Q 1032 'dul ba, che 18b2-369a5; je lal-265a7; nye lal-268a7; te lal-254a5 (vol. 42, p. 149; vol. 43, p.l)
-3
 4 • Comparative Kangyur
 N 3 'dul ba, ca 30b2-439a6; cha lbl-431a7; ja lbl-446a6;
 nya lbl-417a6 (vol. 5-8)
@@ -186,7 +184,7 @@ satasahasrikd-prajndpdramitd vol. 14, pp. 3-884; vol. 15, pp. 3-888; vol. 16, pp
 D 8 'bum, ka lbl-394a7; kha lbl-402a7; ga lbl-394a4;
 nga lbl-381a7; ca lbl-395a55 cha lbl-382a75 ja lbl-398a75 nya lbl-399a7; ta lbl-384a7; tha lbl-387a7; da lbl-411a7; a lbl-395a6 (vol. 14-25)
 Q 7 30 sher phyin, ra lal-319a8; la lal-330a3; sha lal-339a5; sa lal-326a7>" ha lal-339a8; a lal-330a8; ksa lal-326a8; ki lal-367a8; khi lal-253a8; gi lal-375a7; ngi lal-323a8; ci lal-310a7; chi lal-356b7; ji lal-320a7 (vol. 12-18)
-N 9 sher phyin 'bum, ka lbl-543a5; kha lbl-528a6; ga lbl-573a4; nga lbl-519a5; ca lbl-532a7; cha lbl-532a6; ja lbl-535a8; nya lbl-544a6; ta lbl-528a6; thal-541b4; da lbl-531a6; na lbl-536a5 (vol. 14-25)
+N 9 sher phyin 'bum, ka lbl-543a5; kha lbl-528a6; ga lbl-573a4; nga lbl-519a5; ca lbl-532a7; cha lbl-532a6; ja lbl-535a8; nya lbl-544a6; ta lbl-528a6; tha 1bl-541b4; da lbl-531a6; na lbl-536a5 (vol. 14-25)
 C 999 'bum, ka lbl-302a65 kha lbl-323a5; ga lbl-317a5;
 nga lbl-310a6; ca lbl-323a2; cha lbl-307a8; ja lbl-312a5; nya lbl-320a4; ta lbl-310a3; tha lbl-313a3;
 Prajnaparamita ■ 9
@@ -356,15 +354,12 @@ drya-prajndpdramitd-suryagarbha-mahdydna-sutra vol. 34, pp. 497-502
 D 26 shes rab sna tshogs, ka 175b3-176b6 (vol. 34)
 Q 742 sher phyin, tsi 179al-180a7 (vol. 21, p.257)
 14 • Comparative Kangyur
-CK44
-CK 45
-CK 46
-CK47
 N 27 sna tshogs, ka 264a4-266a3 (vol. 34)
 C 100 9 sna tshogs, ka 189b4-191a6 (vol. 78)
 H 27 sna tshogs, ka 261a3-263a3 (vol. 34)
 J 21 sna tshogs, ka 167b4-169a2 (vol. 39)
 U 2 6 shes rab sna tshogs, ka 175b3-176b6 (vol. 34)
+CK 44
 ’phags pa zla ba'i snying po shes rab kyi pha rol tu phyin pa theg pa chen po'i mdo
 arya-candragarbha-prajnapdramita-mahdydna-sutra vol. 34, pp. 503-507
 D 27 shes rab sna tshogs, ka 176b6-177b6 (vol. 34)
@@ -374,6 +369,7 @@ C 1010 sna tshogs, ka 191a6-192b3 (vol. 78)
 H 2 8 sna tshogs, ka 263a3-264b6 (vol. 34)
 J 22 sna tshogs, ka 169a2-170a4 (vol. 39)
 U 27 shes rab sna tshogs, ka 176b6-177b6 (vol. 34)
+CK 45
 'phags pa shes rab kyi pha rol tu phyin pa kun tu bzang po theg pa chen po'i mdo
 drya-prajndpdramita-samantabhadra-mahdyana-sutra vol. 34, pp. 508-510
 D 28 shes rab sna tshogs, ka 177b6-178a6 (vol. 34)
@@ -383,6 +379,7 @@ C 1011 sna tshogs, ka 192b3-193a5 (vol. 78)
 H 2 9 sna tshogs, ka 264b6-265b4 (vol. 34)
 J 23 sna tshogs, ka 170a4-170b5 (vol. 39)
 U 28 shes rab sna tshogs, ka 177b6-178a6 (vol. 34)
+CK 46
 'phags pa shes rab kyi pha rol tu phyin pa lag na rdo rje'i mdo theg pa chen po
 drya-prajndpdramitd-vajrapdni-mahdyana-sutra vol. 34, pp. 511-513 D 29 shes rab sna tshogs, ka 178a6-178b6 (vol. 34)
 Q 745 sher phyin, tsi 182a6-182b7 (vol. 21, p.259)
@@ -391,19 +388,17 @@ C 1012 sna tshogs, ka 193a5-193b7 (vol. 78)
 H 30 sna tshogs, ka 265b4-266bl (vol. 34)
 J 24 sna tshogs, ka 170b5-171a6 (vol. 39)
 D 29 shes rab sna tshogs, ka 178a6-178b6 (vol. 34)
+CK 47
 'phags pa shes rab kyi pha rol tu phyin pa rdo rje rgyal mtshan gyi mdo theg pa chen po
 drya-prajndparamitd-vajraketu-mahdydna-sutra vol. 34, pp. 514-516 D 30 shes rab sna tshogs, ka 178b6-179a7 (vol. 34)
 Q 74 6 sher phyin, tsi 182b8-183b3 (vol. 21, p.259)
 Prajndparamita ■ 15
-CK 48
-CK49
-CK 50
-CK 51
 N 31 sna tshogs, ka 269a5-270a5 (vol. 34)
 C 1013 sna tshogs, ka 193b7-194b3 (vol. 78)
 H 31 sna tshogs, ka 266bl-267a7 (vol. 34)
 J 25 sna tshogs, ka 171a6-172al (vol. 39)
 U 30 shes rab sna tshogs, ka 178b6-180bl (vol. 34)
+CK 48
 chos kyi 'khor lo rab tu bskor ba'i mdo
 dharmacakra-pravartana-sutra vol. 34, pp. 517-526
 Translator(s): Anandasn, Thar-pa Lo-tsa-ba Nyi-ma-rgyal-mtshan D 31 shes rab sna tshogs, ka 180al-183a7 (vol. 34)
@@ -413,6 +408,7 @@ C 1014 sna tshogs, ka 194b3-197b7 (vol. 78)
 H 32 sna tshogs, ka 268al-273bl (vol. 34)
 J 26 sna tshogs, ka 172al-174b8 (vol. 39)
 U 31 shes rab sna tshogs, ka 180bl-183a7 (vol. 34)
+CK 49
 skyes pa rabs kyi gleng gzhi
 jataka-nidana
 vol. 34, pp. 527-723
@@ -424,6 +420,7 @@ C 1015 sna tshogs, ka 197b7-278b4 (vol. 78)
 H 33 sna tshogs, ka 273bl-388a5 (vol. 34)
 J 27 sna tshogs, ka 175al-248b7 (vol. 39)
 U 32 shes rab sna tshogs, ka 183a7-250a5 (vol. 34)
+CK 50
 lcang lo can gyi pho brang gi mdo
 dtdnatiya-sutra vol. 34, pp. 724-752
 Translator(s): Anandasn, Thar-pa Lo-tsa-ba Nyi-ma-rgyal-mtshan D 33 shes rab sna tshogs, ka 250a5-259b4 (vol. 34)
@@ -433,6 +430,7 @@ C 1016 sna tshogs, ka 278b4-289b5 (vol. 78)
 H 34 sna tshogs, ka 388a5-403b5 (vol. 34)
 J 28 sna tshogs, ka 248b7-258b7 (vol. 39)
 U 33 shes rab sna tshogs, ka 250a5-259b4 (vol. 34)
+CK 51
 'dus pa chen po'i mdo
 mahasamaya-sutra vol. 34, pp. 753-764
 Translator(s): AnandasrI, Thar-pa Lo-tsa-ba Nyi-ma-rgyal-mtshan D 34 shes rab sna tshogs, ka 259b4-263a4 (vol. 34)
@@ -553,16 +551,13 @@ U 4 6 dkon brtsegs, ka 45bl-99b7 (vol. 39)
 CK 64 'phags pa de bzhin gshegs pa'i gsang ba bsam gyis mi khyab pa bstan pa zhes bya ba theg pa chen po'i mdo
 drya-tathagata-acintya-guhya-nirdesa-ndma-mahdydna-sutra vol. 39, pp. 289-598 Translator(s): Jinamitra, Danaslla, Munivarman, Ye-shes-sde D 4 7 dkon brtsegs, ka 100al-203a7 (vol. 39)
 20 • Comparative Kangyur
-CK 65
-CK66
-CK 67
-CK 68
 Q	7 60(3) dkon brtsegs, tshi 113b4-233al (vol. 22, p.47)
 N	34 dkon brtsegs, ka 171b2-341b6 (vol. 35)
 C	1029 (3) dkon brtsegs, ka 112b5-234a7 (vol. 83)
 H	47 dkon brtsegs, ka 151a7-313b7 (vol. 35)
 J	302 dkon brtsegs, ka 112b6-235b6 (vol. 78)
 U	4 7 dkon brtsegs, ka 100al-203a7 (vol. 39)
+CK 65
 'phags pa rmi lam bstan pa zhes bya ba theg pa chen po'i mdo
 drya-svapna-nirdesa-ndma-mahayana-sutra vol. 39, pp. 599-696 Translator(s): Prajnavarman, Ye-shes-sde
 D 48 dkon brtsegs, ka 203bl-237a7 (vol. 39)
@@ -572,6 +567,7 @@ C 1029(4) dkon brtsegs, ka 234a7-271b6 (vol. 83)
 H 48 dkon brtsegs, ka 313b7-367a4 (vol. 35)
 J 303 dkon brtsegs, ka 235b6-276a2 (vol. 78)
 U 4 8 dkon brtsegs, ka 203bl-237a7 (vol. 39)
+CK 66
 'phags pa 'od dpag med kyi bkod pa zhes bya ba theg pa chen po'i mdo
 drya-amitabha-vyuha-ndma-mahdydna-sutra vol. 39, pp. 697-795 Translator(s): Jinamitra, Danaslla, Ye-shes-sde
 D 49 dkon brtsegs, ka 237bl-270a5 (vol. 39)
@@ -581,6 +577,7 @@ C 1029 (5) dkon brtsegs, ka 271b6-311a5 (vol. 83)
 H 49 dkon brtsegs, ka 367a4-418a7 (vol. 35)
 J 304 dkon brtsegs, ka 276a3-316a8 (vol. 78)
 U 4 9 dkon brtsegs, ka 237bl-270a5 (vol. 39)
+CK 67
 'phags pa de bzhin gshegs pa mi 'khrugs pa'i bkod pa zhes bya ba theg pa chen po'i mdo
 arya-aksobhyatathdgatasya vyuha-ndma-mahdydna-sutra vol. 40, pp. 3-187 Translator(s): Jinamitra, Surendrabodhi, Ye-shes-sde D 50 dkon brtsegs, kha lbl-70a7 (vol. 40)
 Q 760 (6) dkon brtsegs, dzi lal-80a5 (vol. 22, p. 127)
@@ -589,6 +586,7 @@ C 1029 (6) dkon brtsegs, kha lbl-79a6 (vol. 84)
 H 50 dkon brtsegs, kha lbl-115al (vol. 36)
 J 305 dkon brtsegs, kha lbl-77b3 (vol. 79) —
 U 50 dkon brtsegs, kha lbl-70a7 (vol. 40)
+CK 68
 'phags pa go cha'i bkod pa bstan pa zhes bya ba theg pa chen po'i mdo
 arya-varmavyuha-nirdesa-ndma-mahaydna-sutra vol. 40, pp. 188-390
 Ratnakuta • 21
@@ -629,7 +627,7 @@ J 309 dkon brtsegs, kha 213bl-225b7 (vol. 79)
 U 54 dkonbrtsegs, kha 184b6-195a7 (vol. 40)
 22 • Comparative Kangyur
 CK 72 'phags pa 'od zer kun du bkye ba bstan pa zhes bya ba theg pa chen po'i mdo
-arya-rasmi-samantamukta-nirdesa-nama-mahayana-sutra vol. 40, pp. 5,54-736
+arya-rasmi-samantamukta-nirdesa-nama-mahayana-sutra vol. 40, pp. 554-736
 D 55 dkon brtsegs, kha 195bl-255bl (vol. 40)
 Q 7 60(11) dkon brtsegs, dzi 218b2-281b3 (vol. 22, p.215)
 N 42 dkon brtsegs, kha 304a4-402a5 (vol. 36)
@@ -658,16 +656,13 @@ arya-dyusman-nanda-garbhavakranti-nirdesa vol. 41, pp. 737-774 Translator(s): 'G
 D 58 dkon brtsegs, ga 237al-248a7 (vol. 41)
 Q 7 60(13) dkon brtsegs, wi 234a3-248a3 (vol. 23, p.95)
 Ratnakuta • 23
-CK 76
-CK 77
-CK 78
-CK79
 N 4 4 dkon brtsegs, ga 408al-426b6 (vol. 37)
 C 102 9 (14) dkon brtsegs, ga 280b7-294a3 (vol. 85)
 H 57 dkon brtsegs, ga 380b5-399b2 (vol. 37)
 J 313 dkon brtsegs, ga 288b6-302a5 (vol. 80)
 U 58 dkon brtsegs, ga 262al-273bl (vol. 41)
 Notes: Translated from Chinese.
+CK 76
 'phags pa 'jam dpal gyi sangs rgyas kyi zhing gi yon tan bkod pa zhes
 bya ba theg pa chen po'i mdo
 arya-manjusri-buddhaksetra-gunavyuha-nama-mahayana-sutra vol. 41, pp. 775-912
@@ -678,6 +673,7 @@ C 102 9(15) dkon brtsegs, ga 294a3-349a3 (vol. 85)
 H 59 dkon brtsegs, nga lbl-85a5 (vol. 38)
 J 314 dkon brtsegs, ga 302a6-357a2 (vol. 80)
 U 5 9 dkon brtsegs, ga 273bl-322a4 (vol. 41)
+CK 77
 'phags pa yab dang sras mjal ba zhes bya ba theg pa chen po'i mdo
 drya-pitaputra-samdgamana-ndma-mahdydna-sutra vol. 42, pp. 3-495
 Translator(s): Sllendrabodhi, Jinamitra, Danaslla, Ye-shes-sde D 60 dkon brtsegs, nga lbl-168a7 (vol. 42)
@@ -686,6 +682,7 @@ N 47 dkon brtsegs, nga 80b5-336b3 (vol. 38)
 C 102 9 (16) dkon brtsegs, nga lbl-193a4 (vol. 86)
 H 60 dkon brtsegs, nga 85a5-358a7 (vol. 38)
 J 315 dkon brtsegs, nga lbl-188a4 (vol. 81) *-U 60 dkon brtsegs, nga lb 1-I68a7 (vol. 42)
+CK 78
 'phags pa gang pos zhus pa zhes bya ba theg pa chen po'i mdo
 drya-purna-pariprcchd-ndma-mahdydna-sutra vol. 42, pp. 496-682
 D 61 dkon brtsegs, nga 168bl-227a6 (vol. 42)
@@ -695,6 +692,7 @@ C 102 9 (17) dkon brtsegs, nga 193a4-262a8 (vol. 86)
 H 61 dkon brtsegs, nga 358a7-458b3 (vol. 38)
 J 316 dkon brtsegs, nga 188a4-257a5 (vol. 81)
 U 61 dkon brtsegs, nga 168a7-227a5 (vol. 42)
+CK 79
 'phags pa yul 'khor skyong gis zhus pa zhes bya ba theg pa chen po'i mdo
 drya-rdstrapdla-pariprcchd-ndma-mahdydna-sutra vol. 42, pp. 683-774
 Translator(s): Jinamitra, Danaslla, Munivarman, Ye-shes-sde D 62 dkon brtsegs, nga 227a7-257a7 (vol. 42)
@@ -1397,7 +1395,7 @@ H 140 mdo sde, tha 289b3-432a6 (vol. 56)
 J 83 mdo sde, na 205al-299b7 (vol. 51)
 U 138 mdo sde, na 187b3-277b7 (vol. 56)
 CK 157 'phags pa rdo rje'i snying po'i gzungs zhes bya ba theg pa chen po'i mdo
-drya-vajramanda-ndma-dhdram-mahdyana-sutra vol. 56,. pp. 768-799 Translator(s): Sllendrabodhi, Ye-shes-sde
+drya-vajramanda-ndma-dhdram-mahdyana-sutra vol. 56, pp. 768-799 Translator(s): Sllendrabodhi, Ye-shes-sde
 D 139 mdo sde, na 278al-289b4 (vol. 56)
 Q 807 mdo sna tshogs, du 300b3-312a4 (vol. 32, p.220)
 N 126 mdo sde, tha 455a6-474bl (vol. 56)
@@ -2419,7 +2417,7 @@ C 888 mdo mang, za 67b8-68b3 (vol. 46)
 H 250 mdo sde, wa 90a3-91a4 (vol. 66)
 J 191 mdo sde, za 61a2-61b4 (vol. 61)
 U 24 9 mdo sde, za 59a5-59b7 (vol. 66)
-CK268 chos bzhi pa'i mdo
+CK 268 chos bzhi pa'i mdo
 caturdharmaka-sutra vol. 66, pp. 166-168 D 250 mdo sde, za 59b7-60a7 (vol. 66)
 Q 916 mdo sna tshogs, zhu 64a2-64b2 (vol. 36, p. 161)
 N 2 35 mdo sde, wa 85bl-86a4 (vol. 66)
@@ -2754,6 +2752,7 @@ C 925 mdo mang, ya 95bl-97b7 (vol. 48)
 H 288 mdo sde, za 168a6-171a4 (vol. 68)
 J 227 mdo sde, ya 79b5-81b7 (vol. 63)
 U 286 mdo sde, ya 79b7-81b7 (vol. 68)
+***** moved from 2786 20140623 sam ***** • 83
 Siitra: Hinayana Sutra
 (theg dman gyi mdo) texts 0305-0384
 CK 305 'phags pa dam pa'i chos dran pa nye bar gzhag pa
@@ -2784,7 +2783,6 @@ CK 307 mdo chen po gzugs can snying pos bsu ba zhes bya ba
 bimbisara-pratyudgamana-nama-mahdsutra vol. 71, pp. 644-660
 Translator(s): Jinamitra, Prajnavarman, Ye-shes-sde D 28 9 mdo sde, sha 244bl-249b7 (vol. 71)
 Q 955 mdo sna tshogs, lu 268a8-274bl (vol. 38, p.275)
-83
 84 • Comparative Kangyur
 N	274	mdo sde, ra 373b3-383a6 (vol. 71)
 C	928	mdo mang, sha 287bl-294a7 (vol. 51)
@@ -2815,7 +2813,7 @@ U 2 92 mdo sde, sha 262al-265b4 (vol. 71)
 CK 311 mdo chen po rgyal mtshan dam pa zhes bya ba
 dhvaja-agra-nama-mahasutra vol. 71, pp. 710-716 Translator(s): Jinamitra, Prajnavarman, Ye-shes-sde D 2 93 mdo sde, sha 265b4-267a7 (vol. 71)
 Q 959 mdo sna tshogs, lu 291bl-293a5 (vol. 38, p.284) N 278 mdo sde, ra 409a2-411b5 (vol. 71)
-Sutra: Hinayana Sutra
+Sutra: Hinayana Sutra ***** inserted 20140623 sam ***** • 85
 C 932	mdo mang, sha 314al-315b8 (vol. 51)
 H 2 96	mdo sde, ra 501a2-503b3 (vol. 71)
 J 234	mdo sde, sha 292al-293b8 (vol. 66)
@@ -2828,7 +2826,7 @@ C 933 mdo mang, sha 316al-326bl (vol. 51)
 H 297 mdo sde, ra 503b3-517b2 (vol. 71)
 J 235 mdo sde, sha 294al-303bl (vol. 66)
 U 2 94 mdo sde, sha 267bl-275b7 (vol. 71)
-CK313 'phags pa rdo'phangs pa'i mdo
+CK 313 'phags pa rdo'phangs pa'i mdo
 arya-silaksipta-sutra vol. 71, pp. 741-795
 Translator(s): Bzang-skyong
 Reviser(s): Ska-ba Dpal-brtsegs-raksita
@@ -2838,7 +2836,7 @@ C 934 mdo mang, sha 326bl-350bl (vol. 51)
 H 2 98 mdo sde, ra 517b2-549bl (vol. 71)
 J 236 mdo sde, sha 303bl-326al (vol. 66)
 U 295 mdo sde, sha 275b7-295a7 (vol. 71)
-CK314 gzhon nu dpe'i mdo
+CK 314 gzhon nu dpe'i mdo
 kumara-drstanta-sutra vol. 71, pp. 796-801 D 296 mdo sde, sha 295b2-297a2 (vol. 71)
 Q 962 mdo sna tshogs, lu 324al-325b2 (vol. 38, p.297) N 281 mdo sde, ra 458a3-460b3 (vol. 71)
 C 935 mdo mang, sha 350bl-352a7 (vol. 51)
@@ -2956,7 +2954,7 @@ C 948 mdo mang, sa 193bl-194a6 (vol. 52)
 H 312 mdo sde, la 237b4-238b4 (vol. 72)
 J 24 9 mdo sde, sa 169a5-169b8 (vol. 67)
 U 309 mdo sde, sa 155a2-155b5 (vol. 72)
-Sutra: Hinayana Sutra
+Sutra: Hinayana Sutra ***** inserted 20140623 sam ***** • 89
 CK 328 mi rtag pa nyid kyi mdo
 anityata-sutra vol. 72, pp. 437-442
 D 310 mdo sde, sa 155b5-157a5 (vol. 72)
@@ -3023,7 +3021,7 @@ J 257 mdo sde, sa 185a5-202bl (vol. 67)
 U 317 mdo sde, sa 170b4-188a7 (vol. 72)
 CK 336 'phags pa don rgyas pa zhes bya ba'i chos kyi rnam grangs
 arya-arthavistara-ndma-dharmaparyaya vol. 72, pp. 535-549
-Sutra: Hmayana Sutra
+Sutra: Hmayana Sutra ***** inserted 20140623 sam ***** • 91
 D	318	mdo sde, sa 188a7-193b7 (vol. 72)
 Q	98 4	mdo sna tshogs, shu 197b6-203a5 (vol. 39, p.81)
 N	303	mdo sde, la 295bl-303b6 (vol. 72)
@@ -3167,7 +3165,7 @@ CK 352 ’phags pa dga' ba can gyi mdo
 arya-nandika-sutra vol. 72, pp. 770-778 Translator(s): Sakyasimha, Byin-gyi-snying-po Reviser(s): Devacandra
 D 334 mdo sde, sa 268a5-271a5 (vol. 72)
 Q 1000 mdo sna tshogs, shu 276b2-279bl (vol. 39, p.112) N 319 mdo sde, la 421a7-425b4 (vol. 72)
-Sutra: Hinayana Sutra
+Sutra: Hinayana Sutra ***** inserted 20140623 sam ***** • 95
 C	973	mdo mang, sa 321b5-325a2 (vol. 52)
 H	338	mdo sde, la 409bl-413b4 (vol. 72)
 J 274	mdo sde, sa 285bl-288b2 (vol. 67)
@@ -3390,7 +3388,7 @@ sardulakarna-avadana vol. 76, pp. 669-796 Translator(s): Ajitasffbhadra, Sakya-'
 D 358 mdo sde, ah 232bl-277b5 (vol. 76)
 Q 1027 mdo sna tshogs, ke 242a2-286b6 (vol. 40, p.353)
 N 345 mdo sde, a 354b5-420b2 (vol. 76)
-Sutra: Hinaydna Sutra
+Sutra: Hinaydna Sutra ***** inserted 20140623 sam ***** • 101
 c	997
 H	366
 J	297
@@ -3423,7 +3421,7 @@ CK 384 'phags pa byams pa lung bstan pa
 dry a-maitreya-vy dkarana vol. 76, pp. 868-879 Translator(s): Jinamitra, Ska-ba Dpal-brtsegs-raksita
 Q 1011 mdo sna tshogs, hu 312a3-316a7 (vol. 40, p.127) N 32 9 mdo sde, sa 477b4-483a7 (vol. 74)
 H 350 mdo sde, sa 489b7-496a5 (vol. 74)
-Tantra: Anuttara-yoga-tantra
+102 • ***** moved from 3450 20140623 sam ***** Tantra: Anuttara-yoga-tantra
 (rnal 'byor bla na med kyi rgyud) texts 0385-0503
 Advaya Tantra
 (gnyis med kyi rgyud)
@@ -3449,7 +3447,6 @@ U 363 rgyud 'bum, ka 14al-21a7 (vol. 78)
 CK 387 mchog gi dang po'i sangs rgyas las phyung ba rgyud kyi rgyal po dpal dus kyi 'khor lo zhes bya ba
 paramadibuddhoddhrita-sri-kdlacakra-ndma-tantrardja vol. 77, pp. 57-360 Translator(s): Somanatha, 'Bro Shes-rab-grags-pa
 Reviser(s): Tshul-khrims-dar, Zhang-ston Mdo-sde-dpal, Shong-ston Rdo-rje-rgyal-mtshan
-102
 Tantra: Anuttara-yoga-tantra • 103
 D	362	rgyud, ka 22al-128b7 (vol. 77)
 Q	4	rgyud, ka 23bl-141b8 (vol. 1, p.127)
@@ -3635,7 +3632,7 @@ J 371 (a) rgyud 'bum, ga 262al-358a3 (vol. 86)
 U 383 rgyud 'bum, ga 73bl-158b7 (vol. 80)
 CK 405 (b) rgyud kyi rgyal po chen po dpal yang dag par sbyor ba'i thig le zhes bya ba
 vol. 79, pp. 410-469, 515-529 Translator(s): Kayasthapa Gayadhara, 'Brog-mi Lo-tsa-ba Sakya ye-shes
-Tantra: Anuttara-yoga-tantra
+Tantra: Anuttara-yoga-tantra ***** inserted 20140623 sam ***** • 109
 D	382	rgyud, ga 158b7-184a7 (vol. 79)
 Q	27	rgyud, ga 330a5-357a6 (vol. 2, p.280)
 N	385	rgyud, ga 398a4-437b4 (vol. 82)
@@ -3699,7 +3696,7 @@ Q 36 rgyud, nga 33b6-36b6 (vol. 3, p.15)
 C 3 6 rgyud, nga 36a4-39b2 (vol. 4)
 J 380 rgyud 'bum, nga 33a6-36bl (vol. 87)
 U 393 rgyud 'bum, ga 216a3-219a2 (vol. 80)
-Tantra: Anuttara-yoga-tantra
+Tantra: Anuttara-yoga-tantra ***** inserted 20140623 sam ***** • 111
 CK 415 dpal ye shes gsang ba'i rgyud kyi rgyal po
 sn-jnana-guhyatantraraja vol. 79, pp. 635-640 Translator(s): Candramala, 'Brog-mi Lo-tsa-ba Sakya ye-shes D 392 rgyud, ga 219a2-220a7 (vol. 79)
 Q 37 rgyud, nga 36b6-38a5 (vol. 3, p. 16)
@@ -3761,7 +3758,7 @@ Q 46 rgyud, nga 51b6-53b7 (vol. 3, p.22)
 C 4 6 rgyud, nga 56a7-58b3 (vol. 4)
 J 390 rgyud 'bum, nga 52a6-54b3 (vol. 87)
 U 4 03 rgyud 'bum, ga 233a5-235a5 (vol. 80)
-Tantra: Anuttara-yoga-tantra
+Tantra: Anuttara-yoga-tantra ***** inserted 20140623 sam ***** • 113
 CK 425 dpal dur khrod rgyan gyi rgyud kyi rgyal po
 srl-smasdna-alamkdra-tantrardja vol. 79, pp. 697-703 Translator(s): Gayadhara, 'Brog-mi Lo-tsa-ba Sakya ye-shes D 4 02 rgyud, ga 235a5-237a5 (vol. 79)
 Q 47 rgyud, nga 53b8-55b8 (vol. 3, p.23)
@@ -4105,7 +4102,7 @@ sri-guhyasamdja-ndma-mahdtantraraja vol. 81, pp. 442-583 Translator(s): Sraddhak
 N 4 04 rgyud, ca 64a7-153a2 (vol. 84)
 H 416 (a) rgyud, nga 431b7-521b2 (vol. 82)
 See also: CK 464.
-CK466 rgyud phyi ma
+CK 466 rgyud phyi ma
 *	uttara-tantra, [sri-guhyasamdja-] vol. 81, pp. 584-611 Translator(s): Sraddhakaravarman, Rin-chen-bzang-po D 443 rgyud, ca 148a6-157b7 (vol. 81)
 Q 81 (b) rgyud, ca 157b5-167bl (vol. 3, p.199)
 N 405 rgyud, ca 153a2-167b3 (vol. 84)
@@ -4298,7 +4295,7 @@ U 4 65 rgyud 'bum, ja 90b4-93b7 (vol. 84)
 Mayajala
 (sgyu 'phrul dra ba)
 TEXT 0490
-Tantra: Anuttara-yoga-tantra
+Tantra: Anuttara-yoga-tantra ***** inserted 20140623 sam ***** • 131
 CK 490 rgyud kyi rgyal po chen po sgyu 'phrul dra ba zhes bya ba
 mdydjdla-mahdtantrardja-ndma vol. 83, pp. 308-428 Translator(s): Rin-chen-bzang-po
 D 4 66 rgyud, ja 94al-134a7 (vol. 83)
@@ -4346,7 +4343,7 @@ C 108 rgyud, ja 152b6-159b7 (vol. 7)
 H 435 rgyud, ca 407a7-416b6 (vol. 83)
 J 44 8 rgyud 'bum, ja 144al-150b6 (vol. 90)
 U 470 rgyud 'bum, ja 167b5-173b3 (vol. 84)
-CK495 gtam rgyud kyi rtog pa
+CK 495 gtam rgyud kyi rtog pa
 vol. 83, pp. 560-563 D 471 rgyud, ja 173b3-174a2 (vol. 83)
 Q 108 rgyud, ja 158a8-159al (vol. 4, p. 177)
 N 429 rgyud, ja 70b3-71a7 (vol. 86)
@@ -4453,7 +4450,7 @@ C	118 rgyud, ta 55a8-99b6 (vol. 9)
 H	457 rgyud, ja 353b5-412b5 (vol. 85)
 J	4 56 (a) rgyud 'bum, ta 53bl-95bl (vol. 92)
 U	4 82 rgyud 'bum, ta 58bl-96a3 (vol. 86)
-CK509 mngon spyod kyi las
+CK 509 mngon spyod kyi las
 vol. 85, pp. 275-277 Translator(s): Santigarbha, Jayaraksita (a.k.a. Ska-ba Dpal-brtsegs-raksita) D 4 84 rgyud, ta 96a3-96a7 (vol. 85)
 [N 437 (b) rgyud, nya 293b5-294a6 (vol. 87)]
 C 119 rgyud, ta 99b6-100a5 (vol. 9)
@@ -4543,7 +4540,7 @@ C 128 rgyud, tha 101b7-141b8 (vol. 10)
 H 461 rgyud, nya 122a7-176b 1 (vol. 86)
 J 4 65 rgyud 'bum, tha 83al-117a8 (vol. 93)
 U 4 92 rgyud'bum, tha 120b5-152bl (vol. 87)
-Tantra: Cdrya-tantra
+Tantra: Cdrya-tantra ***** moved from 4565 20140623 sam ***** • 139
 (spyodpa'i rgyud) texts 0519-0526
 CK 519 rnam par snang mdzad chen po mngon par rdzogs par byang chub pa rnam par sprul pa byin gyis rlob pa shin tu rgyas pa mdo sde'i dbang po'i rgyal po zhes bya ba'i chos kyi rnam grangs
 mahavairocanabhisambodhi-vikurvatT-adhisthana-vaipulya-sutra-indraraja-ndma-dharmaparyaya vol. 86, pp. 436-756 Translator(s): Sllendrabodhi, Ska-ba Dpal-brtsegs-raksita D 4 94 rgyud, tha 151b2-260a7 (vol. 86)
@@ -4565,7 +4562,6 @@ CK 521 'phags pa lag na rdo rje dbang bskur ba'i rgyud chen po
 drya-vajrapdni-abhiseka-mahdtantra vol. 87, pp. 3-463 Translator(s): Sllendrabodhi, Ye-shes-sde D 496 rgyud, da lbl-156b7 (vol. 87)
 Q 130 rgyud, da lal-157a3 (vol. 6, p.33)
 N 450 rgyud, tha 97a5-328a4 (vol. 89)
-139
 140 • Comparative Kangyur
 C	133	rgyud, da lbl-184b3 (vol. 11)
 H	4 66	rgyud, ta lbl-258a4 (vol. 87)
@@ -4601,7 +4597,7 @@ J 4 69 rgyud 'bum, tha 303b6-309b8 (vol. 93)
 U 4 98 rgyud 'bum, da 167a3-172a7 (vol. 88)
 CK 525 rdo rje sa gsum du rgyu ba zhes bya ba'i rtog pa'i rgyal po
 vajra-bhumi-tricarani-rdjakalpa-nama vol. 87, pp. 514-529 Translator(s): Kumaravajra, Ra-byid Lo-tsa-ba D 500 rgyud, da 172bl-176b7 (vol. 87)
-Tantra: Kriya-tantra
+Tantra: Kriya-tantra ***** inserted 20140623 sam ***** • 141
 Q	131	rgyud, da 157a3-161a8 (vol. 6, p.97)
 N	4 51	rgyud, tha 328a4-334b5 (vol. 89)
 C	134	rgyud, da 184b3-190a2 (vol. 11)
@@ -5024,7 +5020,7 @@ H 4 96 rgyud, tha 36a2-40b5 (vol. 88)
 J 4 95 rgyud 'bum, na 33b4-36b3 (vol. 95)
 U 543 rgyud 'bum, na 102a4-104b7 (vol. 89)
 See also: CK 884.
-Tantra: Kriya-tantra
+Tantra: Kriya-tantra ***** inserted 20140623 sam ***** • 153
 Cakravartin Tantras ('khor los bsgyur ba'i rgyud)
 TEXTS 0571-0580
 CK 571 ’phags pa 'jam dpal gyi rtsa ba'i rgyud
@@ -5093,7 +5089,7 @@ J 508 rgyud 'bum, pa 17al-17a5 (vol. 96)
 U 550 rgyud 'bum, na 15a3-15b2 (vol. 90)
 See also: CK 907.
 CK 578 'phags pa 'jam dpal gyi sngags yi ge 'bru gcig pa'i cho ga vol. 89, pp. 59-60 D 550 rgyud, pa 14b7-15a4 (vol. 89)
-Tantra: Kriya-tantra
+Tantra: Kriya-tantra ***** inserted 20140623 sam ***** • 155
 Q	171	rgyud, pa 16b3-16b7 (vol. 6, p.278)
 N	4 87	rgyud, da 503a3-503b 1 (vol. 90)
 C	17 6	rgyud, pa 19a6-19b3 (vol. 13)
@@ -5943,7 +5939,7 @@ See also: CK 892.
 CK 669 'phags pa sa'i snying po'i mtshan brgya rtsa brgyad pa gzungs sngags dang bcas pa
 drya-ksitigarbha-astottarasataka-ndma-dharani-mantra-sahita vol. 91, pp. 449-456 D 641 rgyud, ba 124a5-126a5 (vol. 91)
 Q 327 rgyud, ba 152a2-154al (vol. 7, p.265)
-Tantra: Kriya-tantra
+Tantra: Kriya-tantra ***** inserted 20140623 sam ***** • 179
 N 587 rgyud, pha 85a4-88[gong]a3 (vol. 93)
 C 332 rgyud, ba 176b5-178b7 (vol. 15)
 H 62 0 rgyud, pa 92b3-95b6 (vol. 91)
@@ -6049,7 +6045,7 @@ H 4 83 rgyud, tha 8b7-9a5 (vol. 88)
 J 4 83 rgyud 'bum, na 13b8-14a4 (vol. 95)
 U 653 rgyud 'bum, ba 137a2-137a5 (vol. 92)
 See also: CK 875.
-CK681 de bzhin gshegs pa'i yi ge brgya pa
+CK 681 de bzhin gshegs pa'i yi ge brgya pa
 vol. 91, pp. 509-510 N 7 82 kha skong, 129b3-129b4 (vol. 101)
 H 5 65 rgyud, na 326b6-326b7 (vol. 90)
 Notes: The Narthang colophon states that this text was taken from a collection of dharanls.
@@ -6309,7 +6305,7 @@ H 57 5 rgyud, na 329bl-330a2 (vol. 90)
 J 610 rgyud 'bum, ba l['og]b2-2a4 (vol. 98)
 U 682 rgyud 'bum, ba 223al-223a5 (vol. 92)
 See also: CK 863.
-CK711 bde ldan gyi snying po
+CK 711 bde ldan gyi snying po
 vol. 91, pp. 824-825
 D 680 rgyud, ba 223a5-223a7 (vol. 91)
 Q 147 rgyud, na 15a2-15a5 (vol. 6, p.156)
@@ -6417,7 +6413,7 @@ See also: CK 911.
 CK 725 'phags pa zhal bcu gcig pa'i rig sngags kyi snying po zhes bya ba'i gzungs
 arya-mukha-dasaika-vidyamantrahrdaya-ndma-dhdram vol. 93, pp. 387-408 Translator(s): 'Gos Chos-grub (Facheng
 D 694 rgyud, tsa 139bl-147b3 (vol. 93)
-Tantra: Kriya-tantra
+Tantra: Kriya-tantra ***** inserted 20140623 sam ***** • 193
 Q 37 4 rgyud, tsa 13a3-21b6 (vol. 8, p. 131)
 C 37 9 rgyud, tsa 14b3-24a2 (vol. 17)
 J 687 rgyud 'bum, tsa 14a6-23a3 (vol. 100)
@@ -6468,7 +6464,7 @@ C 382 rgyud, tsa 38b8-41b4 (vol. 17)
 H 666 rgyud, pha 23b7-27b4 (vol. 92)
 J 690 rgyud'bum, tsa 36a3-38bl (vol. 100)
 U 7 00 rgyud 'bum, tsa 150a5-152bl (vol. 94) See also: CK 916.
-CK731 'jig rten dbang phyug gi rtog pa
+CK 731 'jig rten dbang phyug gi rtog pa
 lokesvara-kalpa vol. 93, pp. 434-450 Translator(s): Jambhala, Ba-ri Lo-tsa-ba Rin-chen-grags D 7 00 rgyud, tsa 151bl-157b2 (vol. 93)
 Q 37 6 rgyud, tsa 29a7-35a2 (vol. 8, p.137)
 N 627 rgyud, pha 425b2-433a6 (vol. 93)
@@ -6564,7 +6560,7 @@ H 553 rgyud, na 289b3-290a5 (vol. 90)
 [J 54 8 (a) rgyud'bum, pha 286b6-287a5 (vol. 97)]
 U 711 rgyud 'bum, tsa 177b7-178a6 (vol. 94)
 See also: CK 942.
-Tantra: Kriya-tantra
+Tantra: Kriya-tantra ***** inserted 20140623 sam ***** • 197
 CK 742 sha lo ka brgya lobs pa
 vol. 93, pp. 537-538
 D 711 rgyud, tsa 178a7-178b2 (vol. 93)
@@ -6639,7 +6635,7 @@ Tantra: Kriya-tantra ■ 199
 J 561(a) rgyud 'bum, pha 311b6-311b8 (vol. 97)
 U 719 rgyud 'bum, tsa 179b7-180a2 (vol. 94)
 See also: CK 1049.
-CK751 thos pa'dzin pa'i gzungs vol. 93, pp. 557-558
+CK 751 thos pa'dzin pa'i gzungs vol. 93, pp. 557-558
 D 72 0 rgyud, tsa 180a4-180a7 (vol. 93)
 Q 231 rgyud, pha 303a5-303a8 (vol. 7, p. 197)
 N 773 kha skong 121a6-121b2 (vol. 101)
@@ -6734,7 +6730,6 @@ C 400 rgyud, tsa 89b7-91b4 (vol. 17)
 H 60 9 rgyud, na 473b6-476a5 (vol. 90)
 J 7 07 rgyud 'bum, tsa 80b3-82a4 (vol. 100)
 U 731 rgyud 'bum, tsha 222b4-224bl (vol. 95)
-Krodha Tantras (khro bo khro mo'i rgyud) texts 0764-0767
 CK 763 'phags pa grags ldan ma'i gzungs
 arya-yasovati-dhdrani vol. 94, pp. 603-606 D 732 rgyud, tsha 224bl-225a3 (vol. 94)
 Q 191 rgyud, pha 204a7-204b8 (vol. 7, p. 157)
@@ -6744,6 +6739,7 @@ H 530 rgyud, na 178a6-179a5 (vol. 90)
 J 527 rgyud 'bum, pha 209b4-210a5 (vol. 97)
 U 732 rgyud 'bum, tsha 224bl-225a2 (vol. 95)
 See also: CK 1004.
+Krodha Tantras (khro bo khro mo'i rgyud) texts 0764-0767
 CK 764 'phags pa spyan ras gzigs dbang phyug ha ya grl ba'i gzungs
 arya-avalokitesvara-hayagnva-dhdrani vol. 94, pp. 607-613
 D 733 rgyud, tsha 225a3-225b6 (vol. 94)
@@ -7003,7 +6999,7 @@ C 418 rgyud, tsha 134b3-136al (vol. 18)
 H 7 01 rgyud, ma 380bl-382a6 (vol. 94)
 J 723 (b) rgyud 'bum, tsha 128a3-129b2 (vol. 101)
 U 7 61 rgyud 'bum, wa 52a2-53a6 (vol. 97)
-Tantra: Kriya-tantra
+Tantra: Kriya-tantra ***** inserted 20140623 sam ***** • 211
 CK 793 'phags pa lcags kyi mchu zhes bya ba'i gzungs
 arya-lohatunda-ndma-dharani vol. 96, pp. 176-179 D 7 62 rgyud, wa 53a6-54a3 (vol. 96)
 Q 414 rgyud, tsha 124al-124b5 (vol. 9, p.ll)
@@ -7112,7 +7108,7 @@ See also: CK981.
 Indeterminate
 (phyogsgangdu ngos bzung dka' ba) TEXTS 0804-0834
 CK 804 rin po che brdar ba'i gzungs
-vol. 96, pp^ 370-371 D 774 rgyud, wa 112b4-112b5 (vol. 96)
+vol. 96, pp. 370-371 D 774 rgyud, wa 112b4-112b5 (vol. 96)
 Q 223 rgyud, pha 302a2-302a3 (vol. 7, p. 197)
 N 67 6 rgyud, tsha 28b7-29a2 (vol. 97)
 [C 22 8 rgyud, pha 339b3-339b4 (vol. 14)]
@@ -7190,7 +7186,7 @@ C 251 rgyud, pha 344bl-344b5 (vol. 14)
 J 57 0 rgyud 'bum, pha 314a5-314a8 (vol. 97)
 U 7 82 rgyud 'bum, wa 113b5-114al (vol. 97)
 See also: CK 1024.
-CK813 skran zhi ba'i gzungs vol. 96, pp. 389-390 D 7 83 rgyud, wa 114a5-114a6 (vol. 96)
+CK 813 skran zhi ba'i gzungs vol. 96, pp. 389-390 D 7 83 rgyud, wa 114a5-114a6 (vol. 96)
 Q 247 rgyud, pha 306a5-306a7 (vol. 7, p. 198)
 N 686 rgyud, tsha 33a7-33b 1 (vol. 97)
 C 252 rgyud, pha 344b5-344b6 (vol. 14)
@@ -7204,7 +7200,7 @@ D 7 84 rgyud, wa 114a7-114bl (vol. 96)
 Q 248 rgyud, pha 306a7-306bl (vol. 7, p. 198)
 N 687 rgyud, tsha 33b2-33b3 (vol. 97)
 C 253 rgyud, pha 344b6-344b8 (vol. 14)
-Tantra: Kriya-tantra -217
+Tantra: Kriya-tantra - 217
 H 72 7 rgyud, tsha 132a7-132b2 (vol. 96)
 J 572 rgyud 'bum, pha 314b2-314b4 (vol. 97)
 U 7 84 rgyud 'bum, wa 114a3-114a4 (vol. 97)
@@ -7559,7 +7555,7 @@ C 4 53 rgyud, tsha 368al-368a5 (vol. 18)
 H 782 rgyud, tsha 365a4-365bl (vol. 96)
 J 7 4 5 (i) rgyud 'bum, tsha 339bl-339b5 (vol. 101)
 U 825 rgyud 'bum, wa 262a6-262b3 (vol. 97)
-CK856 bkra shis kyi tshigs su bead pa
+CK 856 bkra shis kyi tshigs su bead pa
 mangala-gathd vol. 96, pp. 876-880 Translator(s): Jinamitra, Ye-shes-sde
 Dharani ■ 227
 D	82 6 rgyud, wa 262b3-263b6 (vol. 96)
@@ -7570,7 +7566,7 @@ H	783 rgyud, tsha 365bl-367a6 (vol. 96)
 J	745 (j ) rgyud 'bum, tsha 339b5-341a5 (vol. 101)
 U	82 6 rgyud 'bum, wa 262b3-263b6 (vol. 97)
 See also: CK 24,1110.
-" CK 857 dkon mchog gsum gyi bkra shis kyi tshigs su bead pa
+CK 857 dkon mchog gsum gyi bkra shis kyi tshigs su bead pa
 ratnatri-svasti-gatha vol. 96, pp. 881-885 Translator(s): Jinamitra, Ye-shes-sde
 D 827 rgyud, wa 263b7-264a6 (vol. 96)
 Q 450 rgyud, tsha 323al-323a6 (vol. 9, p.91)
@@ -7998,7 +7994,7 @@ C 531 rgyud, 'a 233b5-240b2 (vol. 23)
 J 819 rgyud 'bum, 'a 217b2-223a6 (vol. 106)
 U 903 gzungs 'dus, e 217b2-223b7 (vol. 101)
 See also: CK713.
-CK914 sa bcu pa'i gzungs
+CK 914 sa bcu pa'i gzungs
 dasabhumi-dharam vol. 97, pp. 655-663 D 902 gzungs, e 223b7-226b3 (vol. 101)
 240 • Comparative Kangyur
 Q 527 rgyud, 'a 222a6-225a4 (vol. 11, p. 153)
@@ -8887,7 +8883,7 @@ C 650 rgyud, ya 193b5-194b6 (vol. 24)
 J 931 rgyud 'bum, ya 165a4-166a3 (vol. 107)
 U 1022 gzungs 'dus, warn 181b7-183al (vol. 102)
 See also: CK 649.
-Dharant
+Dharant ***** inserted 20140623 sam ***** • 265
 CK 1032 ma zhu ba'i nad 'byang ba'i gzungs vol. 98, pp. 608-609
 D 1021 gzungs, warn 183al-183a2 (vol. 102)
 Q 64 6 rgyud, ya 189a7-189bl (vol. 11, p.253)
@@ -9511,6 +9507,7 @@ sarvatathagatasya-guhyasiddhyartha-abhisamaya-hetu-sarva-bodhi-satvasya caryasam
 H 259 mdo sde, wa 385a5-595a7 (vol. 66)
 U 361 mdo sde, ki lbl-154a6 (vol. 77)
 Notes: According to Lhasa colophon, the text was translated from Chinese; the Lhasa recension colophon to this text however, has been omitted.
+***** moved from 9530 20140623 sam ***** • 283
 Nyingma Tantra
 (rnying rgyud) texts 1118-1142
 CK 1118 chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po
@@ -9531,7 +9528,6 @@ J 7 47 rgyud 'bum, dza 84bl-280b5 (vol. 102)
 U 82 9 rnying rgyud, ka 86a7-290a7 (vol. 98)
 CK 1120 de bzhin gshegs pa thams cad kyi gsang ba, gsang ba'i mdzod chen po mi zad pa gter gyi sgron ma, brtul zhugs chen po bsgrub pa'i rgyud, ye shes rngam pa glog gi 'khor lo zhes bya ba theg pa chen po'i mdo
 sarvatathagata-guhya-mahaguhyakosa-aksayaya-nidhi-dipa-mahdvrata-sadhana-tantra-jndndscarya-dyuti-cakra-nama-mahdydna-sutra vol. 101, pp. 749-936 Translator(s): Vajravisvamitra, Lo-chen Vairocanaraksita D 830 rnying rgyud, ka 290bl-358a7 (vol. 97)
-283
 284 • Comparative Kangyur
 Q	453	rgyud, dza 276b4-342a8 (vol. 9, p.204)
 N	74 6	rgyud, dza 408a2-503a7 (vol. 98)
@@ -9737,6 +9733,7 @@ vol. 104, pp. 3-952 Author/ Compiler: Bu-ston Rin-chen-grub
 Q 1 rgyud, om lal-285a6 (vol. 1, p.l)
 C 474 rgyud, za lbl-312a5 (vol. 22)
 J 7 63 rgyud gzung 'dus, za lbl-304a6 (vol. 105)
+290 • ***** moved from 9752 20140623 sam *****
 Catalogues
 (dkarchag) texts 1143-1153
 CK 1143 sde dge'i bka' 'gyur dkar chag / bde bar gshegs pa'i bka' gangs can
@@ -9753,7 +9750,6 @@ CK 1148 snar thang bka’ 'gyur dkar chag (rgyas pa) / bka' 'gyur rin po che'i
 gsung par srid gsum rgyan gcig rdzu ’phrul shing rta'i dkar chag ngo mtshar bkod pa rgya mtsho'i lde mig vol. 106, pp. 71-306 Author/ Compiler: Sle-lung Bzhad-pa'i-rdo-rje N 7 93 dkar chag, lal-124a4 (vol. 102)
 CK 1149 co ne'i bka' 'gyur dkar chag / co ne'i bka' 'gyur rin po che'i dkar chag gsal ba'i me long
 vol. 106, pp. 307-399 C 1057 dkar chag, lal-45a2 (vol. 108)
-290
 Catalogues • 291
 CK 1150 sog khu re'i bka' 'gyur dkar chag / bde bar gshegs pa'i bka' 'gyur ro cog par du bzhengs pa'i dkar chag dge mtshan 'bum phrag phyogs mthar 'phel bar byed pa'i skye ba Inga pa'i sgra dbyangs
 vol. 106, pp. 401-529

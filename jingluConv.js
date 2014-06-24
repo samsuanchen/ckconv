@@ -1,40 +1,164 @@
-var fs=require('fs')
-var inp=fs.readFileSync('input.txt').toString().split('\r\n')
-var i, L
-var out=[]
-console.log(inp.length)
-var ckp=/^(.{0,3})CK ?([0-9l]+) ?(\(.+\))?/
-var vog=/vol.\s*(\d+),\s*pp\.\s*(\d+)-(\d+)/g
-var vop=/vol.\s*(\d+),\s*pp\.\s*(\d+)-(\d+)/
-var jinglu=[], m, j, k=0, L, d, a, CKname, CKvalue=''
-for(i=0; i<inp.length; i++) {
-    L=inp[i]
-	if(m=L.match(ckp)){		// match CK name =========================================
-		if ('undefined'!==typeof json){
-			if (CKvalue==='') 
-				console.log(CKname,JSON.stringify(json),i,L)
-			jinglu.push(JSON.stringify(json))
-		}
-		var json={}
-		CKvalue=''
-		++k,a=m[3],a=a?a.substr(1,a.length-2):''// CK append (a,b,c)
-		j=parseInt(m[2])	// j the parsed   CK #
-		if(j!==k) k--		// k the expected CK #
-		CKname='CK'+j+a
-		if(d=j-k)
-			console.log(i+' '+d+' CK'+j+a+' '+L); k=j // resume
-	}
-	if (m=L.match(vog)) { // match CK value ====================================
-		m.forEach(function(M){ // for each ref
-			var p=M.match(vop)
-			var vol=p[1], bgn=p[2], stp=p[3]
-			if(CKvalue)CKvalue+=';'
-			CKvalue+=vol+'@'+bgn+'-'+stp
-		})
-		json[CKname]=CKvalue
-	//	console.log(CKname+':'+CKvalue)
-	}
+var fs=require('fs') 
+// read input.txt
+var inp=fs.readFileSync('../input.txt').toString() /*
+var inp=fs.readFileSync('../A Catalogue of the Comparative Kangyur_Hackett.txt').toString()
+var inpBgn="('dul ba) texts 0001-0024", ib=inp.indexOf(inpBgn)
+var inpEnd='Concordances', ie=inp.indexOf('\r\n'+inpEnd+'\r\n')
+inp=inp.substring(ib,ie) // ignore leading and trailing text
+inp=inp.replace(/" CK 857/,'CK 857')
+var txtMoved=/\r\n.+? texts 0764-0767\r\n/, m=inp.match(txtMoved)
+if (m) {
+	inp=inp.replace(m[0],'\r\n')
+	inp=inp.replace(/\r\nCK 764/,m[0]+'CK 764')
 }
-if ('undefined'!==typeof json)
+inp=inp.replace(/\r\nCK(\d+)/g,function(txt){
+	var m=txt.match(/\r\nCK(\d+)/)
+	console.log('CK'+m[1]+' ===> CK '+m[1])
+	return '\r\nCK '+m[1]
+}) */
+var lines=inp.split('\r\n'), len, limit, L, id=0, offset=0
+var lineRange=lines.map(function(line){
+	len=line.length, limit=offset+len
+	L={id:id++, start:offset, len:len, limit:limit, text:line}
+	offset=limit+2
+	return L
+})
+function offsetToLine(offset) { // given char offset return line id (starting from 0)
+	for (var i=0; i<lineRange.length; i++)
+		if (offset>=lineRange[i].start && offset<lineRange[i].limit)
+			break
+	return i
+}
+var groupp='(texts?|TEXTS?) (\\d{4})(-\\d{4})?\\r\\n(.+\\r\\n)?CK\\s(\\d+)'
+var groupg=RegExp(groupp,'g'); groupp=RegExp(groupp)
+var m=inp.match(groupg),M,ib,ie,i=1,p,groups=[] // match all groups
+m.forEach(function(g){
+	M=g.match(groupp),ib=parseInt(M[2]),ie=M[3],b=parseInt(M[5])
+	if (M[4]) if (p=M[4].match( /(texts?|TEXTS?) (\d{4})(-\d{4})?/ )) {
+		ie=p[3]
+	}
+	ie=ie?parseInt(ie.substr(1)):ie=ib
+	if ( i!==ib || b!==ib )
+		console.log('***** group begin expected',i,'parsed',ib,ie,b,M[0])
+	groups.push({b:ib,e:ie})
+	console.log(ib,ie)
+	i=ie+1
+})
+var pagep='\\r\\n(\\d+) [•■*-]|[•■*-] (\\d+)\\r\\n'
+var pageg=RegExp(pagep,'g'); pagep=RegExp(pagep)
+var m=inp.match(pageg),M,t,i,p=3,j,pages={}
+m.forEach(function(page){
+	M=page.match(pagep), t=M[1]||M[2]
+	if(t){
+		i=parseInt(t)
+		if(p!==i) {
+			pages[p]='\r\n'+p+'\r\n'
+			console.log('page expected',p,'parsed',i)
+		}
+		pages[i]=t
+		var O=inp.indexOf(M[0])
+		var L=offsetToLine(O+2)
+		console.log('page '+i+' at '+O+' line '+L)
+		p=i+1
+	}
+})
+var numErrNotQ=0
+inp=inp.split(/\r\nCK/)
+console.log(inp.length-1,'CKs')
+var m, k=0, j, d, a, CKname, CKvalue, fieldName, fieldValue
+function parseCKname(CK){
+	m=CK.match(/^([0-9\t ]+)(\(.+\))?/)		// match CKname 
+	if (m) {
+		k++, j=parseInt(m[1].replace(/\s/g,''))	// CK # (k the expected, j the parsed)
+		a=m[2], a=a?a.substr(1,a.length-2):''	// CK append (a = 'a','b','c',...)
+		if (k!==j && a)					// if not expected
+			k--							//		adjust k first
+		if (k-j) {						// if still not expected
+			console.log('***** CK expect '+k+' parsed '+j+'\n'+CK), numErrNotQ++
+			k=j							// adjust
+			return
+		}
+	//	console.log('CK'+j+a, CK.substr(0,m[0].length+10))
+		return 'CK'+j+a				// return CKname
+	} else if (k)
+		console.log('????? error',CK), numErrNotQ++
+}
+var vop='vol.\\s*(\\d+),\\s*pp\\.\\s*([0-9\\- ,]+)'
+var vog=RegExp(vop,'g'); vop=RegExp(vop)
+var p, vol, bgn, stp
+function parseCKvalue(CK){
+	if (m=CK.match(vog)) { // match CK value ====================================
+		var CKvalue=[]
+		m.forEach(function(ref){ // for each ref
+			p=ref.match(vop), vol=p[1], at=p[2].replace(/ /g,'')
+			CKvalue.push(vol+'@'+at)
+		})
+		CKvalue=CKvalue.join(';')	
+		console.log('{ "'+CKname+'":"'+CKvalue+'",')
+	} else
+		CKvalue='***** no CKvalue *****', numErrNotQ++
+	return CKvalue
+}
+var jinglu=[], json={}
+var fieldValuep='([0-9li!]+[ab][0-9li!]+-[0-9li!]+[ab][0-9li!]+);?'
+var fieldValueg=RegExp(fieldValuep,'g'); fieldValuep=RegExp(fieldValuep)
+function parseFieldValue(txt){ var f,v,vbgn,vlmt,j,t,i=0
+	v=txt.match(/\(vol.\s?(\d+)(-\d+)?(,\sp\..+?)?/)
+	if (!v) return
+	f=txt.substr(0,txt.indexOf(v[0])+v[0].length).match(fieldValueg)
+	if (!f) return
+	if(fieldName.match(/^Q/))
+		return '????? '+txt
+	vbgn=parseInt(v[1]), vlmt=(v[2]?parseInt(v[2].substr(1)):vbgn)+1
+	f=f.map(function(ref){
+		return (vbgn++)+'@'+ref.match(fieldValuep)[1].replace(/[il!]/g,'1')
+	}).join(';')
+	if (vbgn!==vlmt) {
+		console.log('?????',CKname,fieldName,'vol. range unmatched\n'+txt),numErrNotQ++
+		return '????? '+txt
+	}
+	return f
+}
+var fieldNamep='([DQNCHJU])([0-9 \\t]+)(\\([a-z]\\))?'
+var fieldNameg=RegExp(fieldNamep,'g'); fieldNamep=RegExp(fieldNamep)
+function parseFields(CK){
+	var m=CK.match(fieldNameg)
+	if(!m)return
+	var fields=m.map(function(field){
+		var p=field.match(fieldNamep),a=p[3],a=a?a.substr(1,a.length-2):''
+		fieldName=(p[1]+p[2]+a).replace(/\s/g,'')
+	return {fieldName:fieldName,at:CK.indexOf(p[1]+p[2]+(p[3]||''))}
+	})
+	for (var i=0;i<fields.length;i++) {
+		var ib=fields[i].at,v
+		var ie=(i===fields.length-1)?CK.length:fields[i+1].at
+		var txt=CK.substring(ib,ie).replace(/\r\n/g,' ')
+		var n=txt.match(fieldNamep)[0].length
+		var txt=txt.substr(n)
+		fieldName=fields[i].fieldName
+		fields[i].txt=txt
+		fields[i].value=parseFieldValue(txt)
+	}
+	return fields
+}
+var noValues=0
+inp.forEach(function(CK){
+	if (CKname=parseCKname(CK)) {
+		if (CKvalue)
+			jinglu.push(JSON.stringify(json)),json={}
+		json[CKname]=CKvalue=parseCKvalue(CK)
+		var fields=parseFields(CK)
+		if(fields) {
+			fields=fields.map(function(f){
+				json[f.fieldName]=f.value
+				return '"'+f.fieldName+'":"'+f.value+'"'
+			}).join(',\n  ')
+			console.log('  '+fields)
+		}
+		console.log('}')
+	}
+})
+if (CKvalue)
 	jinglu.push(JSON.stringify(json))
-fs.writeFileSync('output.txt',jinglu.join(',\r\n'))
+fs.writeFileSync('../output.txt','[\n'+jinglu.join(',\r\n')+'\n]')
+console.log('numErrNotQ',numErrNotQ)
