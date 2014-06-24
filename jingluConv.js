@@ -1,6 +1,7 @@
 var fs=require('fs') 
 // read input.txt
-var inp=fs.readFileSync('../input.txt').toString() /*
+var inp=fs.readFileSync('input.txt',"utf8").replace(/\r\n/g,'\n');
+/*
 var inp=fs.readFileSync('../A Catalogue of the Comparative Kangyur_Hackett.txt').toString()
 var inpBgn="('dul ba) texts 0001-0024", ib=inp.indexOf(inpBgn)
 var inpEnd='Concordances', ie=inp.indexOf('\r\n'+inpEnd+'\r\n')
@@ -16,7 +17,7 @@ inp=inp.replace(/\r\nCK(\d+)/g,function(txt){
 	console.log('CK'+m[1]+' ===> CK '+m[1])
 	return '\r\nCK '+m[1]
 }) */
-var lines=inp.split('\r\n'), len, limit, L, id=0, offset=0
+var lines=inp.split('\n'), len, limit, L, id=0, offset=0
 var lineRange=lines.map(function(line){
 	len=line.length, limit=offset+len
 	L={id:id++, start:offset, len:len, limit:limit, text:line}
@@ -29,9 +30,10 @@ function offsetToLine(offset) { // given char offset return line id (starting fr
 			break
 	return i
 }
-var groupp='(texts?|TEXTS?) (\\d{4})(-\\d{4})?\\r\\n(.+\\r\\n)?CK\\s(\\d+)'
+var groupp='(texts?|TEXTS?) (\\d{4})(-\\d{4})?\\n(.+\\n)?CK\\s(\\d+)'
 var groupg=RegExp(groupp,'g'); groupp=RegExp(groupp)
 var m=inp.match(groupg),M,ib,ie,i=1,p,groups=[] // match all groups
+debugger;
 m.forEach(function(g){
 	M=g.match(groupp),ib=parseInt(M[2]),ie=M[3],b=parseInt(M[5])
 	if (M[4]) if (p=M[4].match( /(texts?|TEXTS?) (\d{4})(-\d{4})?/ )) {
@@ -44,7 +46,7 @@ m.forEach(function(g){
 	console.log(ib,ie)
 	i=ie+1
 })
-var pagep='\\r\\n(\\d+) [•■*-]|[•■*-] (\\d+)\\r\\n'
+var pagep='\\n(\\d+) [•■*-]|[•■*-] (\\d+)\\n'
 var pageg=RegExp(pagep,'g'); pagep=RegExp(pagep)
 var m=inp.match(pageg),M,t,i,p=3,j,pages={}
 m.forEach(function(page){
@@ -52,7 +54,7 @@ m.forEach(function(page){
 	if(t){
 		i=parseInt(t)
 		if(p!==i) {
-			pages[p]='\r\n'+p+'\r\n'
+			pages[p]='\n'+p+'\n'
 			console.log('page expected',p,'parsed',i)
 		}
 		pages[i]=t
@@ -63,7 +65,7 @@ m.forEach(function(page){
 	}
 })
 var numErrNotQ=0
-inp=inp.split(/\r\nCK/)
+inp=inp.split(/\nCK/)
 console.log(inp.length-1,'CKs')
 var m, k=0, j, d, a, CKname, CKvalue, fieldName, fieldValue
 function parseCKname(CK){
@@ -132,7 +134,7 @@ function parseFields(CK){
 	for (var i=0;i<fields.length;i++) {
 		var ib=fields[i].at,v
 		var ie=(i===fields.length-1)?CK.length:fields[i+1].at
-		var txt=CK.substring(ib,ie).replace(/\r\n/g,' ')
+		var txt=CK.substring(ib,ie).replace(/\n/g,' ')
 		var n=txt.match(fieldNamep)[0].length
 		var txt=txt.substr(n)
 		fieldName=fields[i].fieldName
@@ -160,5 +162,5 @@ inp.forEach(function(CK){
 })
 if (CKvalue)
 	jinglu.push(JSON.stringify(json))
-fs.writeFileSync('../output.txt','[\n'+jinglu.join(',\r\n')+'\n]')
+fs.writeFileSync('../output.txt','[\n'+jinglu.join(',\n')+'\n]')
 console.log('numErrNotQ',numErrNotQ)
